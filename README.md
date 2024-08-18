@@ -1,1 +1,3 @@
 # Diabetes-Prediction-Model-Using-SVM-and-SVC
+
+This repository contains a machine learning model for predicting the likelihood of diabetes using Support Vector Machine (SVM) and Support Vector Classification (SVC) algorithms. The model is trained on a dataset of health-related features and aims to provide accurate predictions to assist in early diabetes detection. The repository includes data preprocessing scripts, model training and evaluation code, and a detailed explanation of the SVM and SVC techniques used. Instructions for setting up and running the model are provided, making it easy to replicate and build upon.
